@@ -1,5 +1,7 @@
 # Top45darbdaviaiKlaipėda
-#Top 45 Klaipėdos įmonės, mokančios didžiausius atlyginimus (šaltinis sodra)
+#Top 45 Klaipėdos įmonės, mokančios didžiausius atlyginimus (šaltinis: Sodra.lt)
+
+
 import pandas as pd
 import numpy as np
 import matplotlib
