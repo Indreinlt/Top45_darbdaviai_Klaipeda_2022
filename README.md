@@ -20,4 +20,5 @@ vid_uzmokestis2500Klaipeda = vid_uzmokestis2500.groupby(['pavadinimas', 'veiklos
 vid_uzmokestis2500Klaipeda.to_excel('vid_uzmokestis2500Klaipeda.xlsx')
 
 
-Visualisation: 
+Visualisation with Tableau
+<img width="1043" alt="Screenshot 2022-01-24 at 14 26 21" src="https://user-images.githubusercontent.com/98321529/150782900-0d7437b7-7514-459e-940c-7b9c7272c6c2.png">
