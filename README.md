@@ -1,5 +1,5 @@
 # Top45_darbdaviai_Klaipėda_2022
-#Top 45 Klaipėdos įmonės, mokančios didžiausius atlyginimus (šaltinis: Sodra.lt)
+#Top 45 Klaipėdos įmonės, mokančios didžiausius atlyginimus (šaltinis: Sodra.lt). Tableau visualizacija.
 
 
 import pandas as pd
