@@ -18,3 +18,6 @@ vid_uzmokestis2500
 vid_uzmokestis2500Klaipeda = vid_uzmokestis2500.groupby(['pavadinimas', 'veiklos_rusis'])['vid.užmokestis'].mean().sort_values(ascending=False).reset_index().head(45)
 
 vid_uzmokestis2500Klaipeda.to_excel('vid_uzmokestis2500Klaipeda.xlsx')
+
+
+Visualisation: 
